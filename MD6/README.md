@@ -1,7 +1,7 @@
 # CAS Advanced Machine Learning Computer Vision Project (Module 6) Jeremy Hackney 3/2023
 
 ### Jupyter notebook
-"CV_Project03"
+"Copy_of_CV_Project03" will run on google colab if you copy over the necessary data files (see below)
 
 ### Keep the directory and subdirectory structure when you copy the notebook:
 
